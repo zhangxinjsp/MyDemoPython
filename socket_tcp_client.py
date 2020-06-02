@@ -1,9 +1,11 @@
-#coding=utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 
 import socket
 
-#SOCK_DGRAM udp
-#SOCK_STREAM tcp
+# SOCK_DGRAM udp
+# SOCK_STREAM tcp
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 host = socket.gethostname()
 port = 12345
@@ -13,7 +15,7 @@ host = "127.0.0.1"
 s.connect((host, port))
 print("连接主机")
 
-while True :
+while True:
     msg = input("输入发送内容：")
     s.send(msg.encode('utf8'))
     if msg == "end":

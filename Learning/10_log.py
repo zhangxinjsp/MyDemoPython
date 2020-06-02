@@ -1,4 +1,6 @@
-# coding=utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 
 import logging
 
@@ -16,3 +18,7 @@ logging.disable(logging.DEBUG)
 logging.debug("debug日志")  # 不会输出
 logging.error("error日志")  # 会输出
 logging.critical("critical日志")  # 会输出
+
+ss = 'a0 a0aa0a0 a0 a0 a0a00a0aa00a0aa0a0a00a '
+ss = ss.replace('a0', '')
+print(ss)

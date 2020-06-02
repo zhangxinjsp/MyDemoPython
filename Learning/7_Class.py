@@ -1,4 +1,5 @@
-# coding=utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 
 class MyClass(object):
@@ -12,4 +13,5 @@ class MyClass(object):
 
 a = MyClass()
 a.method()
+a.method2(name='zhang')
 a.method2(age=10, name='zhangxin')

@@ -1,9 +1,13 @@
-# coding=utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import os
 import shutil
 
 print("当前工作目录", os.getcwd())
+
+print(os.path.expanduser('~'))
+print(os.path.join(os.path.expanduser('~'), 'Desktop'))
 
 # print os.listdir
 

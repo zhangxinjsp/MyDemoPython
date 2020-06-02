@@ -1,4 +1,6 @@
-# coding=utf-8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 
 # 没有需要下载  pip install openpyxl
 import openpyxl
