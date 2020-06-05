@@ -1,50 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc876757-7c16-4009-83ef-9ed5ea92aaae" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_To_Excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word.py" afterDir="false" />
+    <list default="true" id="3d0a2579-f03b-45d3-a3fa-1730fae23419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FiveInRow/ManAndMachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiveInRow/checkerboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/16_Network_QQMusic_Download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/16_Network_Reptile_QQMusic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/19_Pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Resource/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/PixelBird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/dead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PixelBird/img/top.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Fromework_Build.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Fromework_Build.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Swift_to_Kotlin.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Swift_to_Kotlin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_4.py" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/CheryWork/StringFromUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CheryWork/ui_html_json.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/0_For_Temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/11_RegularExpression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MyDemoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyDemoPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_Model_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheryWork/Chery_Word_To_Excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/CheryWork/Chery_Word_To_Excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/10_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/10_log.py" afterDir="false" />
->>>>>>> p to
+      <change beforePath="$PROJECT_DIR$/SimpleServer/DataAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleServer/DataAnalysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="MyDemoPython" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1SoKlvQ26jGt3pp4ByVIsS18gAi" />
+  <component name="ProjectId" id="1csYihwK3wa6AuGf7pEgPlQ5htr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -56,26 +39,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings module-name="PythonProject" is-module-sdk="true">
-        <option name="useSoftWraps" value="true" />
-        <option name="myUseModuleSdk" value="true" />
-        <option name="myModuleName" value="PythonProject" />
-      </console-settings>
-    </option>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Python.Upload">
-    <configuration name="Chery_Fromework_Build" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-  <component name="RunManager" selected="Python.StringFromUI">
-    <configuration name="0_For_Temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> p to
+  <component name="RunManager" selected="Python.music">
+    <configuration name="像素鸟" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,19 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CheryWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/像素鸟" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheryWork/Chery_Fromework_Build.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/0_For_Temp.py" />
->>>>>>> p to
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/像素鸟/像素鸟.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,44 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Chery_Word_Model_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <configuration name="10_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> p to
-      <module name="MyDemoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CheryWork" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheryWork/Chery_Word_Model_4.py" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/10_log.py" />
->>>>>>> p to
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="Chery_Word_Model_List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="11_RegularExpression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> p to
+    <configuration name="19_Pygame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheryWork/Chery_Word_Model_List.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/11_RegularExpression.py" />
->>>>>>> p to
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/19_Pygame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Chery_Word_To_Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="Chery_Word_Model_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> p to
+    <configuration name="ManAndMachine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,15 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CheryWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/五子棋" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheryWork/Chery_Word_To_Excel.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheryWork/Chery_Word_Model_4.py" />
->>>>>>> p to
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/五子棋/ManAndMachine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Upload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-=======
-    <configuration name="StringFromUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
->>>>>>> p to
+    <configuration name="TcpServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,15 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CheryWork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SimpleServer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Upload.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CheryWork/StringFromUI.py" />
->>>>>>> p to
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimpleServer/TcpServer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,183 +126,93 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.0_For_Temp" />
-      <item itemvalue="Python.10_log" />
-      <item itemvalue="Python.11_RegularExpression" />
-      <item itemvalue="Python.Chery_Word_Model_4" />
-      <item itemvalue="Python.StringFromUI" />
-    </list>
+    <configuration name="music" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyDemoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QQ音乐下载" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QQ音乐下载/music.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Python.Upload" />
-        <item itemvalue="Python.Chery_Fromework_Build" />
-        <item itemvalue="Python.Chery_Word_Model_4" />
-        <item itemvalue="Python.Chery_Word_To_Excel" />
-        <item itemvalue="Python.Chery_Word_Model_List" />
-=======
-        <item itemvalue="Python.StringFromUI" />
-        <item itemvalue="Python.0_For_Temp" />
-        <item itemvalue="Python.11_RegularExpression" />
-        <item itemvalue="Python.10_log" />
-        <item itemvalue="Python.Chery_Word_Model_4" />
->>>>>>> p to
+        <item itemvalue="Python.music" />
+        <item itemvalue="Python.TcpServer" />
+        <item itemvalue="Python.ManAndMachine" />
+        <item itemvalue="Python.19_Pygame" />
+        <item itemvalue="Python.像素鸟" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc876757-7c16-4009-83ef-9ed5ea92aaae" name="Default Changelist" comment="" />
-      <created>1562675877588</created>
+      <changelist id="3d0a2579-f03b-45d3-a3fa-1730fae23419" name="Default Changelist" comment="" />
+      <created>1591318784477</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562675877588</updated>
+      <updated>1591318784477</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-<<<<<<< HEAD
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom" timestamp="1583285244562">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583285244562" />
-    <state width="1259" height="2" key="GridCell.Tab.0.center" timestamp="1583285244561">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583285244561" />
-    <state width="1259" height="2" key="GridCell.Tab.0.left" timestamp="1583285244561">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583285244561" />
-    <state width="1259" height="2" key="GridCell.Tab.0.right" timestamp="1583285244562">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583285244562" />
-    <state width="1259" height="244" key="GridCell.Tab.1.bottom" timestamp="1581927293067">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581927293067" />
-    <state width="1259" height="244" key="GridCell.Tab.1.center" timestamp="1581927293066">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1581927293066" />
-    <state width="1259" height="244" key="GridCell.Tab.1.left" timestamp="1581927293066">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1581927293066" />
-    <state width="1259" height="244" key="GridCell.Tab.1.right" timestamp="1581927293067">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1581927293067" />
-    <state x="492" y="334" key="VCS.ChangelistChooser" timestamp="1576033898405">
-=======
-    <state x="360" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583488719772">
+    <state x="634" y="372" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591319182974">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="360" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1583488719772" />
-    <state width="1534" height="316" key="GridCell.Tab.0.bottom" timestamp="1585105925425">
+    <state x="634" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1591319182974" />
+    <state width="1771" height="219" key="GridCell.Tab.0.bottom" timestamp="1591343030821">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1583285244562" />
-    <state width="1534" height="316" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1585105925425" />
-    <state width="1534" height="316" key="GridCell.Tab.0.center" timestamp="1585105925425">
+    <state width="1771" height="219" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030821" />
+    <state width="1771" height="219" key="GridCell.Tab.0.center" timestamp="1591343030819">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1583285244561" />
-    <state width="1534" height="316" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1585105925425" />
-    <state width="1534" height="316" key="GridCell.Tab.0.left" timestamp="1585105925424">
+    <state width="1771" height="219" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030819" />
+    <state width="1771" height="219" key="GridCell.Tab.0.left" timestamp="1591343030819">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1583285244561" />
-    <state width="1534" height="316" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1585105925424" />
-    <state width="1534" height="316" key="GridCell.Tab.0.right" timestamp="1585105925425">
+    <state width="1771" height="219" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030819" />
+    <state width="1771" height="219" key="GridCell.Tab.0.right" timestamp="1591343030820">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1259" height="2" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1583285244562" />
-    <state width="1534" height="316" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1585105925425" />
-    <state width="1259" height="244" key="GridCell.Tab.1.bottom" timestamp="1581927293067">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1581927293067" />
-    <state width="1259" height="244" key="GridCell.Tab.1.center" timestamp="1581927293066">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1581927293066" />
-    <state width="1259" height="244" key="GridCell.Tab.1.left" timestamp="1581927293066">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1581927293066" />
-    <state width="1259" height="244" key="GridCell.Tab.1.right" timestamp="1581927293067">
->>>>>>> p to
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state width="1259" height="244" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1581927293067" />
-    <state x="397" y="210" key="SettingsEditor" timestamp="1583556550547">
+    <state width="1771" height="219" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030820" />
+    <state width="1771" height="296" key="GridCell.Tab.1.bottom" timestamp="1591341290741">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-<<<<<<< HEAD
-    <state width="640" height="388" key="XDebugger.FullValuePopup/0.23.1280.777@0.23.1280.777" timestamp="1576484207102" />
-    <state x="319" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1583205567558">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1583205567558" />
-    <state x="232" y="141" width="816" height="540" key="find.popup" timestamp="1579398063293">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="232" y="141" width="816" height="540" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1579398063293" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1579415819512">
-      <screen x="0" y="23" width="1280" height="777" />
-    </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1579415819512" />
-=======
-    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1583556550547" />
-    <state x="447" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1585134777904">
+    <state width="1771" height="296" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290741" />
+    <state width="1771" height="296" key="GridCell.Tab.1.center" timestamp="1591341290740">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1583205567558" />
-    <state x="447" y="335" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1585134777904" />
-    <state x="325" y="190" width="1143" height="763" key="find.popup" timestamp="1584606636776">
+    <state width="1771" height="296" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290740" />
+    <state width="1771" height="296" key="GridCell.Tab.1.left" timestamp="1591341290740">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="232" y="141" width="816" height="540" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1579398063293" />
-    <state x="325" y="190" width="1143" height="763" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1584606636776" />
-    <state x="427" y="166" width="938" height="955" key="search.everywhere.popup" timestamp="1585033985208">
+    <state width="1771" height="296" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290740" />
+    <state width="1771" height="296" key="GridCell.Tab.1.right" timestamp="1591341290741">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1579415819512" />
-    <state x="427" y="166" width="938" height="955" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1585033985208" />
->>>>>>> p to
+    <state width="1771" height="296" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290741" />
+    <state x="573" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1591323817401">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="573" y="395" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591323817401" />
   </component>
 </project>

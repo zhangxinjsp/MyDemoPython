@@ -202,6 +202,8 @@ class DataAnalysis:
         item_dict = {}
         if isinstance(item, str):
             item_dict = json.loads(item)
+        elif isinstance(item, dict):
+            item_dict = item
         try:
             report_type = item_dict[REPORT_TYPE_KEY]
             report_param = item_dict[REPORT_PARAM_KEY]
