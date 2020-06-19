@@ -5,7 +5,7 @@ import time
 from numba import jit  # compiling Python code using LLVM
 
 
-@jit
+# @jit
 def is_prime(i):
     for test in range(2, i):
         if i % test == 0:
@@ -13,7 +13,7 @@ def is_prime(i):
     return True
 
 
-@jit
+# @jit
 def tp():
     n_loops = 50000
     n_primes = 0

@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d0a2579-f03b-45d3-a3fa-1730fae23419" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FiveInRow/ManAndMachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FiveInRow/checkerboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/16_Network_QQMusic_Download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/16_Network_Reptile_QQMusic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/19_Pygame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning/Resource/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/PixelBird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/dead.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PixelBird/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/20_Data_Visualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/21_ImproveP_erformance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleServer/DataAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleServer/DataAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/0_For_Temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/0_For_Temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/13_Decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/13_Decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/3_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/3_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleServer/TcpServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleServer/TcpServer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,29 +32,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.music">
-    <configuration name="像素鸟" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyDemoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/像素鸟" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/像素鸟/像素鸟.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="19_Pygame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.21_ImproveP_erformance">
+    <configuration name="0_For_Temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +45,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/19_Pygame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/0_For_Temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ManAndMachine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18_Face_Recognition_CV2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/五子棋" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/五子棋/ManAndMachine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/18_Face_Recognition_CV2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TcpServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20_Data_Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SimpleServer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimpleServer/TcpServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/20_Data_Visualization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="music" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21_ImproveP_erformance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyDemoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +104,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QQ音乐下载" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QQ音乐下载/music.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learning/21_ImproveP_erformance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PixelBird" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyDemoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PixelBird" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PixelBird/PixelBird.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.music" />
-        <item itemvalue="Python.TcpServer" />
-        <item itemvalue="Python.ManAndMachine" />
-        <item itemvalue="Python.19_Pygame" />
-        <item itemvalue="Python.像素鸟" />
+        <item itemvalue="Python.21_ImproveP_erformance" />
+        <item itemvalue="Python.0_For_Temp" />
+        <item itemvalue="Python.PixelBird" />
+        <item itemvalue="Python.20_Data_Visualization" />
+        <item itemvalue="Python.18_Face_Recognition_CV2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,41 +169,50 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="634" y="372" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1591319182974" />
-    <state width="1771" height="219" key="GridCell.Tab.0.bottom" timestamp="1591343030821">
+    <state x="100" y="123" width="1592" height="897" key="DiffContextDialog" timestamp="1592206687158">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="219" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030821" />
-    <state width="1771" height="219" key="GridCell.Tab.0.center" timestamp="1591343030819">
+    <state x="100" y="123" width="1592" height="897" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1592206687158" />
+    <state width="1771" height="269" key="GridCell.Tab.0.bottom" timestamp="1592548349493">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="219" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030819" />
-    <state width="1771" height="219" key="GridCell.Tab.0.left" timestamp="1591343030819">
+    <state width="1259" height="32" key="GridCell.Tab.0.bottom/0.23.1280.697@0.23.1280.697" timestamp="1592212324342" />
+    <state width="1771" height="269" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1592548349493" />
+    <state width="1771" height="269" key="GridCell.Tab.0.center" timestamp="1592548349493">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="219" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030819" />
-    <state width="1771" height="219" key="GridCell.Tab.0.right" timestamp="1591343030820">
+    <state width="1259" height="32" key="GridCell.Tab.0.center/0.23.1280.697@0.23.1280.697" timestamp="1592212324341" />
+    <state width="1771" height="269" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1592548349493" />
+    <state width="1771" height="269" key="GridCell.Tab.0.left" timestamp="1592548349492">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="219" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591343030820" />
-    <state width="1771" height="296" key="GridCell.Tab.1.bottom" timestamp="1591341290741">
+    <state width="1259" height="32" key="GridCell.Tab.0.left/0.23.1280.697@0.23.1280.697" timestamp="1592212324341" />
+    <state width="1771" height="269" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1592548349492" />
+    <state width="1771" height="269" key="GridCell.Tab.0.right" timestamp="1592548349493">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="296" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290741" />
-    <state width="1771" height="296" key="GridCell.Tab.1.center" timestamp="1591341290740">
+    <state width="1259" height="32" key="GridCell.Tab.0.right/0.23.1280.697@0.23.1280.697" timestamp="1592212324341" />
+    <state width="1771" height="269" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1592548349493" />
+    <state width="1771" height="296" key="GridCell.Tab.1.bottom" timestamp="1591687577397">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="296" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290740" />
-    <state width="1771" height="296" key="GridCell.Tab.1.left" timestamp="1591341290740">
+    <state width="1771" height="296" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1591687577397" />
+    <state width="1771" height="296" key="GridCell.Tab.1.center" timestamp="1591687577397">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="296" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290740" />
-    <state width="1771" height="296" key="GridCell.Tab.1.right" timestamp="1591341290741">
+    <state width="1771" height="296" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1591687577397" />
+    <state width="1771" height="296" key="GridCell.Tab.1.left" timestamp="1591687577397">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1771" height="296" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591341290741" />
-    <state x="573" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1591323817401">
+    <state width="1771" height="296" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1591687577397" />
+    <state width="1771" height="296" key="GridCell.Tab.1.right" timestamp="1591687577397">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="573" y="395" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591323817401" />
+    <state width="1771" height="296" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1591687577397" />
+    <state x="573" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1592547490008">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="409" y="259" key="com.intellij.ide.util.TipDialog/0.23.1280.697@0.23.1280.697" timestamp="1592208264305" />
+    <state x="573" y="395" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1592547490008" />
   </component>
 </project>

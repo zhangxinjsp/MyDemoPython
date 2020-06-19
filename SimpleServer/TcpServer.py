@@ -3,6 +3,7 @@
 
 
 import socket
+import socketserver
 
 from SimpleServer.DataAnalysis import DataAnalysis
 
@@ -65,11 +66,16 @@ class TcpService:
                     http_method, http_version, header_dict = self.http_header_analysis(piece_list.pop(0))
                     receive_body = b'\r\n\r\n'.join(piece_list)
 
-                if HTTP_HEADER_KEY_CONTENT_LENGTH in header_dict.keys():
-                    content_length = int(header_dict[HTTP_HEADER_KEY_CONTENT_LENGTH])
-                    if len(receive_body) >= content_length:
-                        print('receive finish break')
-                        break
+                if http_method == HTTP_METHOD_POST:
+                    print('receive post req')
+                    if HTTP_HEADER_KEY_CONTENT_LENGTH in header_dict.keys():
+                        content_length = int(header_dict[HTTP_HEADER_KEY_CONTENT_LENGTH])
+                        if len(receive_body) >= content_length:
+                            print('receive finish break')
+                            break
+                elif http_method == HTTP_METHOD_GET:
+                    print('receive get req')
+                    break
 
                 if b'' == receive_piece:
                     print('receive empty break')
@@ -77,7 +83,7 @@ class TcpService:
 
             is_success = self.analysis.analysis_data(receive_body)
 
-            response_message = self.splice_response_body(http_version, is_success)
+            response_message = self.splice_response_body(http_method, http_version, is_success)
 
             client_sock.send(response_message.encode('utf-8'))
             client_sock.close()
@@ -102,7 +108,7 @@ class TcpService:
 
         return http_method, http_version, header_dict
 
-    def splice_response_body(self, http_version, is_success):
+    def splice_response_body(self, http_method, http_version, is_success):
         if http_version:
             start_line = http_version + " 200 OK"
         else:
@@ -110,8 +116,9 @@ class TcpService:
         headers = "Server: My server" + \
                   "\r\nConnection: keep-alive" + \
                   '\r\nDate: ' + \
-                  '\r\nContent-Type: application/json; charset = UTF-8' + \
-                  '\r\nTransfer-Encoding: chunked'
+                  '\r\nContent-Type: application/json; charset = UTF-8'
+        if http_method == HTTP_METHOD_POST:
+            headers += '\r\nTransfer-Encoding: chunked'
         # 请求返回的数据形式不统一
         # 1. 当响应头里有Transfer-Encoding: chunked时，数据的是三部分的：
         #       第一部分：数据长度\r\n，

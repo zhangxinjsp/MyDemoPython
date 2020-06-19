@@ -66,6 +66,7 @@ print(str.strip())  # 默认空格
 str = '------love you ------    ---'
 print(str.strip('- '))
 
+# 关系映射，创建对应关系表，在转换
 intab = '-abio'
 outtab = '~1234'
 table = str.maketrans(intab, outtab)
